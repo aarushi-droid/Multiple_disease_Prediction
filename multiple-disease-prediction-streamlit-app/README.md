@@ -5,3 +5,5 @@ app.py is the streamlit app code.
 run the command "**pip install -r requirements.txt**" to install the required dependencies for the streamlit app.
 
 You may need to install additional libraries for running the jupyter notebooks.
+if u want to view this app on phone you can go through this link:
+https://multiple-disease-analysis-mba8krvba8pyhkkndxstth.streamlit.app/
